@@ -42,7 +42,7 @@ Week 11:  Java Object Database Connectivity (ODBC)
 Week 12:  Interface and Packages for Software Development
 
 ### BOOKS AND REFERENCES
-1.Java: The Complete Reference Hebert Schildt, Mc Graw Hill
+ 1. Java: The Complete Reference Hebert Schildt, Mc Graw Hill
 
-2. Object-Oriented Programming with C++ and Java Debasis Samanta, Prentice Hall India. 
+ 2. Object-Oriented Programming with C++ and Java Debasis Samanta, Prentice Hall India. 
 
