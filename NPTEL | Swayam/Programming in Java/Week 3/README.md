@@ -21,22 +21,23 @@
   - [X] Completed
 
 - Quiz : Assignment 3
-Completed
+  
+  - [X] Completed
 
 - Week 3 : Q1
   
-  - [] Not Started
+  - [ ] Not Started
 
 - Week 3 : Q2
   
-  - [] Not Started
+  - [ ] Not Started
 
 - Week 3 : Q3
   
-  - [] Not Started
+  - [ ] Not Started
 
 - Week 3 : Q4
   
-  - [] Not Started
+  - [ ] Not Started
 
 - Week 3 : Q5
